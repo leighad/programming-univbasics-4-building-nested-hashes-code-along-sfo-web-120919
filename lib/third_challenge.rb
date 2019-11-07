@@ -18,9 +18,7 @@ def third_challenge
         :status => "alive"
         },
       :hero_friends => [
-        Benvolio 
-        :name
-        :age
+        {:name => "Benvolio", :age => 
         :attitude
         Mercutio
         :name
